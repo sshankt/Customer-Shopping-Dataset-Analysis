@@ -4,7 +4,7 @@
 
 This project focuses on analyzing a retail sales dataset to uncover patterns in customer behavior, product preferences, payment methods, and sales trends. The goal is to provide actionable insights that can help businesses optimize marketing strategies, enhance customer targeting, and maximize revenue.
 
-![https://github.com/sshankt/Customer-Shopping-Dataset-Analysis/blob/main/Man-and-woman-shopping-Shutterstock-984x500-1.webp]
+![](https://github.com/sshankt/Customer-Shopping-Dataset-Analysis/blob/main/Man-and-woman-shopping-Shutterstock-984x500-1.webp)
 **Dataset Columns:**
 
 * gender
